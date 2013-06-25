@@ -16,10 +16,12 @@ class MapReduce:
         for line in data:
             record = json.loads(line)
             mapper(record)
-
+		
+        #print "\nreducer starts"
         for key in self.intermediate:
             reducer(key, self.intermediate[key])
-
+		
+        #print self.result
         #jenc = json.JSONEncoder(encoding='latin-1')
         jenc = json.JSONEncoder()
         for item in self.result:

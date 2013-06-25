@@ -1,0 +1,96 @@
+frozenset([u'Judge', u'Valjean'])
+1
+frozenset([u'Cosette', u'Valjean'])
+1
+frozenset([u'Myriel', u'Napoleon'])
+1
+frozenset([u'Valjean', u'Montparnasse'])
+1
+frozenset([u'MlleGillenormand', u'Valjean'])
+1
+frozenset([u'MmeMagloire', u'MlleBaptistine'])
+1
+frozenset([u'Isabeau', u'Valjean'])
+1
+frozenset([u'MmeMagloire', u'Valjean'])
+1
+frozenset([u'Myriel', u'OldMan'])
+1
+frozenset([u'Fantine', u'Valjean'])
+1
+frozenset([u'Myriel', u'Count'])
+1
+frozenset([u'Myriel', u'Geborand'])
+1
+frozenset([u'Labarre', u'Valjean'])
+1
+frozenset([u'Valjean', u'Woman2'])
+1
+frozenset([u'Myriel', u'MlleBaptistine'])
+1
+frozenset([u'Myriel', u'Champtercier'])
+2
+frozenset([u'MmeMagloire', u'Myriel'])
+1
+frozenset([u'Valjean', u'Marguerite'])
+1
+frozenset([u'Gillenormand', u'Valjean'])
+1
+frozenset([u'MlleBaptistine', u'Valjean'])
+1
+frozenset([u'Simplice', u'Valjean'])
+1
+frozenset([u'Babet', u'Valjean'])
+1
+frozenset([u'Valjean', u'Woman1'])
+1
+frozenset([u'Myriel', u'Valjean'])
+2
+frozenset([u'MmeDeR', u'Valjean'])
+1
+["Judge", "Valjean"]
+["Valjean", "Judge"]
+["Cosette", "Valjean"]
+["Valjean", "Cosette"]
+["Myriel", "Napoleon"]
+["Napoleon", "Myriel"]
+["Valjean", "Montparnasse"]
+["Montparnasse", "Valjean"]
+["MlleGillenormand", "Valjean"]
+["Valjean", "MlleGillenormand"]
+["MmeMagloire", "MlleBaptistine"]
+["MlleBaptistine", "MmeMagloire"]
+["Isabeau", "Valjean"]
+["Valjean", "Isabeau"]
+["MmeMagloire", "Valjean"]
+["Valjean", "MmeMagloire"]
+["Myriel", "OldMan"]
+["OldMan", "Myriel"]
+["Fantine", "Valjean"]
+["Valjean", "Fantine"]
+["Myriel", "Count"]
+["Count", "Myriel"]
+["Myriel", "Geborand"]
+["Geborand", "Myriel"]
+["Labarre", "Valjean"]
+["Valjean", "Labarre"]
+["Valjean", "Woman2"]
+["Woman2", "Valjean"]
+["Myriel", "MlleBaptistine"]
+["MlleBaptistine", "Myriel"]
+["MmeMagloire", "Myriel"]
+["Myriel", "MmeMagloire"]
+["Valjean", "Marguerite"]
+["Marguerite", "Valjean"]
+["Gillenormand", "Valjean"]
+["Valjean", "Gillenormand"]
+["MlleBaptistine", "Valjean"]
+["Valjean", "MlleBaptistine"]
+["Simplice", "Valjean"]
+["Valjean", "Simplice"]
+["Babet", "Valjean"]
+["Valjean", "Babet"]
+["Valjean", "Woman1"]
+["Woman1", "Valjean"]
+["MmeDeR", "Valjean"]
+["Valjean", "MmeDeR"]
